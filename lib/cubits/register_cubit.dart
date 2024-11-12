@@ -1,6 +1,7 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:kascollection/states/register_state.dart';
 import 'package:kascollection/utils/auth_repository.dart';
+import 'package:kascollection/utils/enums.dart';
 
 
 
